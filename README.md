@@ -11,8 +11,8 @@ Production-grade LLM systems • RAG • Agents • High-performance inference
 - **Observability**: LangSmith, Phoenix, Prometheus, OpenTelemetry
 
 ## 🚀 Highlighted Projects
-- **RAGFlow** – Enterprise RAG engine with re-ranking & tracing (12k★)  
-- **AgentForge** – Reliable multi-agent framework (8k★)  
+- **RAGFlow** – Enterprise RAG engine with re-ranking & tracing
+- **AgentForge** – Reliable multi-agent framework 
 - **FastAPI-LLM-Template** – Production template with auth, streaming, rate-limiting  
 - **vLLM + AutoAWQ** – 4-bit Llama 3/Mixtral in one command
 
