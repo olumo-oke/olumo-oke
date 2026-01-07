@@ -1,24 +1,44 @@
-# 👨‍💻 LLM Engineer & Backend Developer
+# 👨‍💻 Immanuel Oke (@olumo-oke)
+###  Fintech Engineer & Mobile Developer 🇳🇬
 
-Production-grade LLM systems • RAG • Agents • High-performance inference
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Available_for_Contract-green?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Focus-Fintech_&_Banking-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Lagos,_Nigeria-orange?style=flat-square" />
+</p>
 
-## 🔧 Core Stack
-- **LLMs**: Llama 3, Mixtral, Qwen, DeepSeek, Claude, GPT  
-- **Frameworks**: LangChain, LlamaIndex, LangGraph, Haystack  
-- **Inference**: vLLM, TensorRT-LLM, TGI, Ollama, AWQ/GPTQ  
-- **Vector DBs**: Pinecone, Weaviate, Qdrant, PGVector  
-- **Backend**: FastAPI, NestJS, Go, Rust (Actix/Axum)  
-- **Observability**: LangSmith, Phoenix, Prometheus, OpenTelemetry
+```zsh
+$ whoami
+> Name: Immanuel Oke
+> Role:  Fintech Engineer & Mobile Developer
+> Goal: Building secure, CBN-compliant financial infrastructure.
 
-## 🚀 Highlighted Projects
-- **RAGFlow** – Enterprise RAG engine with re-ranking & tracing
-- **AgentForge** – Reliable multi-agent framework 
-- **FastAPI-LLM-Template** – Production template with auth, streaming, rate-limiting  
-- **vLLM + AutoAWQ** – 4-bit Llama 3/Mixtral in one command
+$ ls -R ./specializations/
+./specializations/:
+├── 🏦 Digital_Banking (MFB)   # NIP transfers, BVN/NIN, Biometrics
+├── 💰 Automated_Lending       # Nano-loans, AI Scoring, Auto-recovery
+├── ⚡ VTU_&_Lifestyle         # Airtime, Data, Utility Bill APIs
+└── 🌍 Remittance              # Cross-border rails, Blockchain/Web3
 
-## 📫 Contact
-- X: [@0lum0](https://x.com/0lum0)  
-- Facebook: [Immanuel Oke](https://www.facebook.com/share/1QyuCWbWHj/)  
-- Email: olumoimmanuel@gmail.com
+$ systemctl status tech-stack
+● stack.service - High-Performance Fintech Stack
+   Loaded: loaded
+   Active: active (running)
+   Main Tools:
+     ├─ Mobile:  Flutter (Dart), React Native
+     ├─ Backend: Go, Rust, NestJS, FastAPI (High-concurrency)
+     ├─ Infra:   PostgreSQL, Redis, AWS, Docker
+     └─ APIs:    Paystack, Monnify, Mono, SmileID, Korapay
 
-Open to interesting LLM & backend projects. Star if you like!
+$ cat projects.log
+[2026-01-07] 🚀 SMARTPAY: White-label MFB app for Businesses/Individuals.
+[2025-12-15] 💰 PADILEND: Automated loan recovery via card tokenization.
+[2025-11-20] ⚡ KUDISUB: High-speed VTU engine (99.9% uptime).
+
+$ curl -X GET [https://api.olumo.dev/contact](https://api.olumo.dev/contact)
+{
+  "X": "@0lum0",
+  "WhatsApp": "+234 815 044 2272",
+  "Email": "olumoimmanuel@gmail.com",
+  "Status": "Ready for your next Fintech project"
+}
