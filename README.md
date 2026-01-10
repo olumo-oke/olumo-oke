@@ -1,4 +1,4 @@
-# 👨‍💻 Immanuel Oke (@olumo-oke)
+# 👨‍💻 Emmanuel Oke 
 ### Full Stack & Mobile Developer 🇳🇬
 
 <p align="left">
