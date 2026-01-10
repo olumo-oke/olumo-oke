@@ -1,35 +1,37 @@
-$ whoami
-> Name: Immanuel Oke
-> Role: Full Stack & Mobile App Developer
-> Goal: I build clean, fast websites and mobile apps for startups 
-        and small businesses from start to finish.
+# 👨‍💻 Immanuel Oke
+### Full Stack & Mobile App Developer
 
-$ ls -R ./services/
-./services/:
-├── 📱 Mobile_Apps       # Cross-platform iOS & Android (Flutter/React Native)
-├── 🌐 Web_Development   # High-performance SEO-friendly web apps
-├── 🛠️ Backend_Systems   # Scalable APIs and database architecture
-└── 🚀 MVP_Launch        # Taking your idea from concept to production
+**I build clean, fast websites and mobile apps for startups and small businesses from start to finish.** Based in Lagos, Nigeria 🇳🇬
 
-$ systemctl status tech-stack
-● stack.service - Modern Full-Stack Environment
-   Loaded: loaded
-   Active: active (running)
-   Main Tools:
-     ├─ Mobile:  Flutter, React Native
-     ├─ Frontend: React.js, Next.js, Tailwind CSS
-     ├─ Backend:  Go, NestJS, FastAPI, Rust
-     └─ Infra:    PostgreSQL, Redis, AWS, Docker, Vercel
+---
 
-$ cat projects.log
-[2026-01-07] 🚀 SMART-COMMERCE: E-commerce platform with seamless payments.
-[2025-12-15] 📱 GESTURE: Intuitive mobile app for service discovery.
-[2025-11-20] 🌐 BIZ-HUB: Dashboard for small business inventory & sales.
+### 🚀 What I Do
+* **Mobile Development:** Crafting seamless iOS & Android experiences using **Flutter** and **React Native**.
+* **Web Development:** Building high-performance, SEO-friendly websites with **Next.js** and **Tailwind CSS**.
+* **Full Stack Systems:** Designing robust backends using **Go, NestJS, and FastAPI**.
+* **MVP Specialist:** Helping small businesses go from an idea to a live product in weeks, not months.
 
-$ curl -X GET https://api.olumo.dev/contact
-{
-  "X": "@0lum0",
-  "WhatsApp": "+234 815 044 2272",
-  "Email": "olumoimmanuel@gmail.com",
-  "Status": "Ready to bring your business idea to life"
-}
+---
+
+### 🛠️ Tech Stack & Tools
+| Category | Technologies |
+| :--- | :--- |
+| **Mobile** | Flutter, React Native, Dart |
+| **Frontend** | React, Next.js, TypeScript, Tailwind |
+| **Backend** | Go, Node.js (NestJS), Python (FastAPI) |
+| **Database** | PostgreSQL, MongoDB, Redis |
+| **DevOps** | AWS, Docker, Vercel, GitHub Actions |
+
+---
+
+### 📈 Recent Projects
+* **E-Commerce Suite:** A full-stack web and mobile solution for local retailers.
+* **Service Connect:** A cross-platform mobile app for booking local artisans.
+* **SaaS Dashboard:** A lightweight business management tool for small teams.
+
+---
+
+### 📥 Let's Work Together
+I'm currently available for new projects and collaborations.
+
+[**WhatsApp**](https://wa.me/2348150442272) • [**Twitter (X)**](https://x.com/0lum0) • [**Email Me**](mailto:olumoimmanuel@gmail.com)
