@@ -18,8 +18,7 @@ $ ls -R ./specializations/
 ├── 📱 Mobile_Apps     
 ├── 🌐 Web_Development  
 ├── 🛠️ Full_Stack_MVP  
-└── 🎨 UI/UX_Logic     # User-centric design turned into functional code
-
+└── 🎨 UI/UX_Logic
 $ systemctl status tech-stack
 ● stack.service - High-Performance Startup Stack
    Loaded: loaded
