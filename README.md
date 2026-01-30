@@ -1,4 +1,4 @@
-# 👨‍💻 Emmanuel Oke 
+# 👨‍💻 Olumo Oke 
 ### Full Stack & Mobile Developer 🇳🇬
 
 <p align="left">
@@ -15,9 +15,9 @@ $ whoami
 
 $ ls -R ./specializations/
 ./specializations/:
-├── 📱 Mobile_Apps     # Cross-platform iOS & Android (Flutter/React Native)
-├── 🌐 Web_Development  # Modern, SEO-optimized, high-performance websites
-├── 🛠️ Full_Stack_MVP  # Rapid prototyping and end-to-end product delivery
+├── 📱 Mobile_Apps     
+├── 🌐 Web_Development  
+├── 🛠️ Full_Stack_MVP  
 └── 🎨 UI/UX_Logic     # User-centric design turned into functional code
 
 $ systemctl status tech-stack
@@ -25,9 +25,9 @@ $ systemctl status tech-stack
    Loaded: loaded
    Active: active (running)
    Main Tools:
-     ├─ Mobile:  Flutter (Dart), React Native
+     ├─ Mobile:  Flutter (Dart)
      ├─ Web:     React, Next.js, Tailwind CSS, TypeScript
-     ├─ Backend: Go, NestJS, FastAPI (Scalable Architecture)
+     ├─ Backend:  Django, Express.js 
      └─ Infra:   PostgreSQL, Redis, AWS, Docker, Vercel
 
 $ cat projects.log
@@ -38,7 +38,7 @@ $ cat projects.log
 $ curl -X GET [https://api.olumo.dev/contact](https://api.olumo.dev/contact)
 {
   "X": "@0lum0",
-  "WhatsApp": "+234 815 044 2272",
+  "WhatsApp": "+234 706 897 8974",
   "Email": "olumoimmanuel@gmail.com",
   "Status": "Ready to bring your business idea to life"
 }
