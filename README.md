@@ -1,7 +1,7 @@
 $ whoami
 > Name:   Immanuel Oke
 > Role:   Backend & AI Engineer
-> Goal:   I build high-performance APIs and autonomous AI logic for startups.
+> Goal:   I build high-performance APIs and AI logic for startups.
 
 $ ls -R ./specializations/
 ./specializations/:
