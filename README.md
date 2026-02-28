@@ -1,29 +1,39 @@
-C:\> whoami
-NAME : Immanuel Oke
-ROLE : Backend & AI Engineer
-GOAL : Scaling backend systems and AI-powered logic.
+$ whoami
+> Name:   Immanuel Oke
+> Role:   Backend & AI Engineer
+> Goal:   I build scalable APIs and autonomous AI logic for startups.
 
-C:\> dir /spec
-AI_ORCHESTRATION   : FastAPI, PydanticAI, Gemini
-SYSTEM_DESIGN      : Microservices, Docker, AWS
-DATA_ENGINEERING   : PostgreSQL, Redis, VectorDB
-API_ARCHITECTURE   : RESTful, JWT, Rate-Limiting
+$ ls -R ./specializations/
+./specializations/:
+├──  AI_Orchestration (FastAPI / Gemini)
+├──  System_Design    (Distributed Systems)
+├──  API_Architecture (REST / GraphQL)
+└──  Backend_MVP      (Django / Express)
 
-C:\> type status.log
-[STATUS] Backend Engine: ACTIVE
-[LOGIC]  Python, Django, Node.js
-[INFRA]  Docker, AWS, PostgreSQL, Redis
-[AI]     PydanticAI, LangChain, Tooling
+$ systemctl status tech-stack
+● stack.service - High-Performance Backend Stack
+  Loaded: loaded
+  Active: active (running)
+  Main Tools:
+    ├─ AI/Logic:  Python, FastAPI, PydanticAI
+    ├─ Database:  PostgreSQL, Redis, VectorDB
+    ├─ Security:  JWT, OAuth2, Rate Limiting
+    └─ Infra:     Docker, AWS, CI/CD Pipelines
 
-C:\> type projects.log
-2026-02-23 | AGENT-FLOW   : Autonomous AI Agent Orchestration.
-2026-01-07 | SMART-RETAIL : High-concurrency inventory API.
-2025-12-15 | GESTURE      : Service discovery & event triggers.
 
-C:\> curl -X GET https://api.olumo.dev/contact
+
+[Image of backend system architecture diagram]
+
+
+$ cat projects.log
+[2026-02-23]  AGENT-FLOW: FastAPI + PydanticAI Agent logic.
+[2026-01-07]  SMART-RETAIL: High-concurrency Inventory APIs.
+[2025-12-15]  GESTURE: Scalable Service Discovery engine.
+
+$ curl -X GET https://api.olumo.dev/contact
 {
-  "X"       : "@0lum0",
-  "Contact" : "+234 706 897 8974",
-  "Email"   : "olumoimmanuel@gmail.com",
-  "Status"  : "READY TO SCALE"
+  "X":        "@0lum0",
+  "WhatsApp": "+234 706 897 8974",
+  "Email":    "olumoimmanuel@gmail.com",
+  "Status":   "Ready to scale your infrastructure"
 }
