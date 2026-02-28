@@ -1,37 +1,35 @@
-#   Immanuel Oke
-
-```text
 $ whoami
 > Name:   Immanuel Oke
-> Role:   Full Stack & Mobile Developer
-> Goal:   I build clean, fast AI-powered apps for startups.
+> Role:   Backend & AI Engineer
+> Goal:   I build the high-performance engines and AI logic that power modern startups.
 
 $ ls -R ./specializations/
 ./specializations/:
-├──  AI_Agents      (FastAPI / Gemini)
-├──  Mobile_Apps    (Flutter / Dart)
-├──  Web_Dev        (Next.js / React)
-└──  Full_Stack_MVP (Django / Express)
+├── AI_Orchestration  (FastAPI / PydanticAI / Tool-Calling)
+├── System_Architecture (Microservices / Docker / Scaling)
+├── Data_Engineering  (PostgreSQL / Redis / Vector DBs)
+└── API_Design        (RESTful / Robust Validation / Security)
 
-$ systemctl status tech-stack
-● stack.service - High-Performance Startup Stack
-  Loaded: loaded
-  Active: active (running)
+$ systemctl status backend-stack
+● backend.service - High-Performance Server Architecture
+  Loaded: active (running)
   Main Tools:
-    ├─ AI/Logic:  Python, FastAPI, PydanticAI
-    ├─ Mobile:    Flutter, Dart
-    ├─ Web:       React, Next.js, Tailwind
-    └─ Infra:     PostgreSQL, Docker, AWS
+    ├─ Logic:      Python (FastAPI, Django), Node.js (Express)
+    ├─ AI/Agents:  PydanticAI, Gemini, LangChain, OpenAI
+    ├─ Database:   PostgreSQL, Redis, MongoDB
+    └─ Infra/DevOps: Docker, AWS (EC2/Lambda), CI/CD
 
-$ cat projects.log
-[2026-02-23]  AGENT-FLOW: Flutter + FastAPI AI Agents.
-[2026-01-07]  SMART-RETAIL: E-commerce for small brands.
-[2025-12-15]  GESTURE: Service discovery mobile app.
 
-$ curl -X GET [https://api.olumo.dev/contact](https://api.olumo.dev/contact)
+
+$ cat engineering.log
+[2026-02-23]  AGENT-FLOW: Engineered a FastAPI backend for autonomous AI agents with PydanticAI.
+[2026-01-07]  SMART-RETAIL: Built high-concurrency inventory APIs & PostgreSQL schema optimization.
+[2025-12-15]  GESTURE: Developed scalable service-discovery logic and real-time notification triggers.
+
+$ curl -X GET https://api.olumo.dev/contact
 {
   "X":        "@0lum0",
   "WhatsApp": "+234 706 897 8974",
   "Email":    "olumoimmanuel@gmail.com",
-  "Status":   "Ready to build your idea"
+  "Status":   "Ready to scale your infrastructure"
 }
