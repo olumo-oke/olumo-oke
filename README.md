@@ -2,24 +2,23 @@
 $ whoami
 > Name: Olumo Oke
 > Role: Mobile App Developer
-> Goal: I build clean, fast websites and mobile apps for startups 
-        and small businesses from start to finish.
-
+> Goal: I build clean, fast websites and mobile apps for startups .
+        
 $ ls -R ./services/
 ./services/:
-├── 📱 Mobile_Apps        
-├── 🌐 Web_Development   
-├── 🛠️ Backend_Systems   
-└── 🚀 MVP_Launch        
+├──  Mobile_Apps        
+├──  Web_Development   
+├──  Backend_Systems   
+└──  MVP_Launch        
 
 $ systemctl status tech-stack
 ● stack.service - Modern Full-Stack Environment
    Loaded: loaded
    Active: active (running)
    Main Tools:
-     ├─ Mobile:   Flutter, React Native
-     ├─ Frontend: React.js, Next.js, Tailwind CSS
-     ├─ Backend:  Go, NestJS, FastAPI, Rust
+     ├─ Mobile:   Flutter
+     ├─ Frontend: React.js
+     ├─ Backend:  FastAPI, Rust
      └─ Infra:    PostgreSQL, Redis, AWS, Docker, Vercel
 
 $ cat projects.log
