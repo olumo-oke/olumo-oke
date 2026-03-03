@@ -1,38 +1,37 @@
 # 👨‍💻 Olumo Oke 
 ### Full Stack & Mobile Developer 🇳🇬
 
-<p align="left">
+&lt;p align="left"&gt;
+  &lt;a href="https://x.com/0lum0"&gt;&lt;img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" /&gt;&lt;/a&gt;
+  &lt;a href="https://wa.me/2348150442272"&gt;&lt;img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" /&gt;&lt;/a&gt;
+  &lt;a href="mailto:olumoimmanuel@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+---
+
 $ whoami
+&gt; Olumo Oke — Mobile & Backend Engineer building scalable solutions
 
 $ ls -R ./specializations/
 ./specializations/:
-├── 📱 Mobile_Apps     
-├── 🌐 Web_Development  
-├── 🛠️ Full_Stack_MVP  
-├── 📱 Mobile_Apps     
-├── 🌐 Web_Development  
-├── 🛠️ Full_Stack_MVP  
-└── 🎨 UI/UX_Logic     
+├── 📱 Mobile_Apps     # Cross-platform iOS & Android (Flutter/Dart)
+├── ⚙️ Backend_APIs     # High-performance REST APIs (FastAPI/Python)
+└── 🛠️ Full_Stack_MVP  # End-to-end product delivery
 
 $ systemctl status tech-stack
-● stack.service - High-Performance Startup Stack
+● stack.service - High-Performance Development Stack
    Loaded: loaded
    Active: active (running)
    Main Tools:
-   
      ├─ Mobile:  Flutter (Dart)
-     ├─ Web:     React, Next.js, Tailwind CSS, TypeScript
-     ├─ Backend: Go, NestJS, FastAPI (Scalable Architecture)
-     ├─ Backend:  Django, Express.js 
-     └─ Infra:   PostgreSQL, Redis, AWS, Docker, Vercel
+     ├─ Backend: FastAPI, Python
+     ├─ Database: PostgreSQL, Redis, MongoDB
+     └─ Infra:   Docker, AWS, GitHub Actions
 
-$ cat projects.log
-$ cat projects.log
-$ curl -X GET [https://api.olumo.dev/contact](https://api.olumo.dev/contact)
+$ curl -X GET https://api.olumo.dev/contact
 {
   "X": "@0lum0",
   "WhatsApp": "+234 815 044 2272",
-  "WhatsApp": "+234 706 897 8974",
   "Email": "olumoimmanuel@gmail.com",
-  "Status": "Ready to bring your business idea to life"
+  "Status": "Ready to build your next product"
 }
