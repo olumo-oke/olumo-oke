@@ -1,3 +1,4 @@
+```bash
 $ whoami
 > Name: Olumo Oke
 > Role: Mobile App Developer
@@ -6,7 +7,7 @@ $ whoami
 
 $ ls -R ./services/
 ./services/:
-├── 📱 Mobile_Apps       
+├── 📱 Mobile_Apps        
 ├── 🌐 Web_Development   
 ├── 🛠️ Backend_Systems   
 └── 🚀 MVP_Launch        
@@ -16,7 +17,7 @@ $ systemctl status tech-stack
    Loaded: loaded
    Active: active (running)
    Main Tools:
-     ├─ Mobile:  Flutter, React Native
+     ├─ Mobile:   Flutter, React Native
      ├─ Frontend: React.js, Next.js, Tailwind CSS
      ├─ Backend:  Go, NestJS, FastAPI, Rust
      └─ Infra:    PostgreSQL, Redis, AWS, Docker, Vercel
