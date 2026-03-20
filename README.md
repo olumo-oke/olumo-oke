@@ -1,35 +1,38 @@
 ```bash
 $ whoami
-> Name: Olumo Oke
-> Role: Mobile App Developer
-> Goal: I build clean, fast websites and mobile apps for startups .
-        
-$ ls -R ./services/
-./services/:
-├──  Mobile_Apps        
-├──  Web_Development   
-├──  Backend_Systems   
-└──  MVP_Launch        
+> Name: Olumo Emmanuel
+> Focus: I build autonomous AI Agents and scalable Backends for high-stakes industries.
+> Mission: Moving businesses from "Chat" to "Action."
 
-$ systemctl status tech-stack
-● stack.service - Modern Full-Stack Environment
+$ ls -R ./capabilities/
+./capabilities/:
+├── AI_Agent_Orchestration
+│   ├── Task-specific Agents 
+│   ├── RAG & Vector Memory 
+│   └── Multi-model Routing 
+├── AI_Integration
+│   ├── LLM-Powered Workflows
+│   ├── Tool Use / Function Calling
+│   └── Intelligent Automation
+└── Backend_Core
+    ├── Distributed Systems 
+    ├── Event-Driven Microservices
+    └── Secure API Design 
+
+$ systemctl status deployment-stack
+● node.service - Production AI Integration Environment
    Loaded: loaded
    Active: active (running)
-   Main Tools:
-     ├─ Mobile:   Flutter
-     ├─ Frontend: React.js
-     ├─ Backend:  FastAPI, Rust
-     └─ Infra:    PostgreSQL, Redis, AWS, Docker, Vercel
+   Stack:
+     ├─ Logic: Python FastAPI
+     ├─ AI Tools: LangChain, Voiceflow, CrewAI, Lovable
+     ├─ Persistence: PostgreSQL, Redis, Pinecone
+     └─ Infrastructure: Docker, AWS, Vercel
 
-$ cat projects.log
-[2026-01-07] 🚀 SMART-COMMERCE: E-commerce platform with seamless payments.
-[2025-12-15] 📱 GESTURE: Intuitive mobile app for service discovery.
-[2025-11-20] 🌐 BIZ-HUB: Dashboard for small business inventory & sales.
-
-$ curl -X GET https://api.olumo.dev/contact
+$ curl -X GET [https://api.olumo.dev/connect](https://api.olumo.dev/connect)
 {
   "X": "@0lum0",
-  "WhatsApp": "+234 815 044 2272",
-  "Email": "olumoimmanuel@gmail.com",
-  "Status": "Ready to bring your business idea to life"
+  "GitHub": "[github.com/olumo](https://github.com/olumo)",
+  "Email": "olumo.ai@gmail.com",
+  "Status": "Accepting AI implementation & backend contracts"
 }
