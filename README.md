@@ -1,4 +1,4 @@
-```markdown
+```bash
 
 $ whoami
 > Name: Olumo Emmanuel
@@ -30,10 +30,10 @@ $ systemctl status deployment-stack
      ├─ Recon Tools: OWASP ZAP, Amass, Nuclei, ffuf
      └─ Targets: Web Apps, REST/GraphQL APIs, Microservices
 
-$ curl -X GET [https://api.olumo.dev/connect](https://api.olumo.dev/connect)
+$ curl -X GET https://api.olumo.dev/connect
 {
   "X": "@0lum0",
-  "GitHub": "[github.com/olumo](https://github.com/olumo)",
+  "GitHub": "github.com/olumo",
   "Email": "olumo.ai@gmail.com",
   "Status": "Accepting application security & bug bounty contracts"
 }
